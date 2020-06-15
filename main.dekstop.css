@@ -1,0 +1,14 @@
+@media screen and (min-width: 768px) {
+    .list-photos {
+        width: 25%;
+    }
+    .website-title {
+        font-size: 45px;
+    }
+    .list-photos p {
+        font-size: 20px;
+    }
+    .list-photos img {
+        height: 150px;
+    }
+}

@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px) {
+    .list-photos {
+        width: 100%;
+    }
+    .website-title {
+        font-size: 20px;
+    }
+    .list-photos p {
+        font-size: 7px;
+    }
+    .list-photos img {
+        min-width: 100%;
+    }
+}
